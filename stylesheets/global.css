@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+
+header{
+  background-image: url("../images/background-header.png");
+  width:1280px;
+  height:320px;
+}
+
+.logo{
+  padding-top: 50px;
+  display: block;
+  margin: 0 auto;
+}
